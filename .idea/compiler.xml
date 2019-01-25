@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AuthPerLoginPassword" target="1.5" />
+      <module name="AuthPerLoginPassword" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
